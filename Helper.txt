@@ -1,0 +1,23 @@
+https://social.msdn.microsoft.com/Forums/en-US/b471bdd8-3833-440c-9915-2ef2723fccc9/ioc-in-a-class-library?forum=csharpgeneral
+
+How do IoC
+
+https://www.dotnettricks.com/learn/dependencyinjection/dependency-injection-in-aspnet-mvc-4-using-unity-ioc-container
+
+container 
+
+
+********Add-References ApiWebZabud.Core*************
+
+--- System.ComponentModels.DataAnnotations
+--- System.Configuration
+
+
+********Add-References ApiWebZabud.Api*************
+
+--- ApiWebZabud.Core
+
+********Add-References ApiWebZabud.Api Nuget Package *************
+
+---  Unity.WebApi
+--- Microsoft.AspNet.WebApi.Cors

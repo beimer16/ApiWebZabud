@@ -1,0 +1,6 @@
+E:\ApiWebZabud\ApiWebZabud.Core\bin\Debug\ApiWebZabud.Core.dll.config
+E:\ApiWebZabud\ApiWebZabud.Core\bin\Debug\ApiWebZabud.Core.dll
+E:\ApiWebZabud\ApiWebZabud.Core\bin\Debug\ApiWebZabud.Core.pdb
+E:\ApiWebZabud\ApiWebZabud.Core\obj\Debug\ApiWebZabud.Core.csproj.CoreCompileInputs.cache
+E:\ApiWebZabud\ApiWebZabud.Core\obj\Debug\ApiWebZabud.Core.dll
+E:\ApiWebZabud\ApiWebZabud.Core\obj\Debug\ApiWebZabud.Core.pdb
