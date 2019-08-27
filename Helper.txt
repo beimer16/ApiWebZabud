@@ -21,3 +21,23 @@ container
 
 ---  Unity.WebApi
 --- Microsoft.AspNet.WebApi.Cors
+
+
+this proyect use 
+
+---Dependency Injector IoC
+- Patter Singleon for connection DataBase
+
+Architecture
+
+--- ApiWebZabud.Core 
+--- ApiWebZabud.Api
+-- WebZabud.Web
+
+
+********************************************************
+
+Se desarrollo el Backend pero el frontend no se logro desarrollar
+la capa  Core contiene los repositorios a base de datos
+la capa Api proporciona la api a consumir
+la capa web era donde se pretendia hacer el frontend
